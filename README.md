@@ -1,4 +1,4 @@
-# Salut, je suis Thikana ! 👋
+ 
 
 ![Bannière](https://capsule-render.vercel.app/api?type=waving&color=0078D4&height=200&section=header&text=Apprenti%20Data%20Engineer&fontSize=50&fontAlignY=40&animation=twinkling)
 
