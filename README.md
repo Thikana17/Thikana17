@@ -1,8 +1,7 @@
  
 
-![Bannière](https://capsule-render.vercel.app/api?type=waving&color=0078D4&height=200&section=header&text=Etudiante%20en%20Data%20et%20IA&fontSize=50&fontAlignY=40&animation=twinkling)
+![Bannière](https://capsule-render.vercel.app/api?type=waving&color=0078D4&height=200&section=header&text=Data%20Analyst%20en%20formation%20chez%20Hetic&fontSize=50&fontAlignY=40&animation=twinkling)
 
-###   **Objectif :** Devenir Data Engineer
 
 
 
